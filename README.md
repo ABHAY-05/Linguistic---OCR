@@ -1,7 +1,7 @@
-# Project Name: Linguistic
+# Linguistic - OCR
 
 ## Overview
-Linguistic is a versatile machine learning project designed to tackle a wide range of text-related tasks. It encompasses text extraction from images, captcha detection, handwritten text recognition, license plate identification, and language translation. This README provides an overview of the project, its features, and instructions on how to use and contribute.
+Linguistic is a versatile machine-learning project designed to tackle various text-related tasks. It encompasses text extraction from images, captcha detection, handwritten text recognition, license plate identification, and language translation. This README provides an overview of the project, its features, and instructions on how to use and contribute.
 
 ## Features
 
@@ -20,3 +20,4 @@ Linguistic is a versatile machine learning project designed to tackle a wide ran
 To get started with Linguistic, follow these steps:
 
 1. Clone the repository to your local machine.
+2. Install the necessary dependencies.
