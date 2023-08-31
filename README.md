@@ -24,8 +24,5 @@ To get started with Linguistic, follow these steps:
 2. Install the necessary dependencies.
    ```bash
       pip install -r requirements.txt
-   '''
-3. Launch the application.
-   '''bash
-      flask run
-   '''
+# Launch the application
+flask run
