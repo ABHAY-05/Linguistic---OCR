@@ -1,9 +1,10 @@
-# Table of Contents
+
+# Linguistic - OCR
+
+## Table of Contents
 - [Overview](#Overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-
-# Linguistic - OCR
 
 ## Overview
 Linguistic is a versatile machine-learning project designed to tackle various text-related tasks. It encompasses text extraction from images, captcha detection, handwritten text recognition, license plate identification, and language translation. This README provides an overview of the project, its features, and instructions on how to use and contribute.
