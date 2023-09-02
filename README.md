@@ -1,3 +1,8 @@
+# Table of Contents
+- [Overview](#Overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+
 # Linguistic - OCR
 
 ## Overview
